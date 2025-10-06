@@ -10,7 +10,7 @@ And **Run seg_Inference.ipynb with the web images**
 The **pdf is presented in segmentation task.pdf**
 
 Generation Task:
-Please run the corresponding notebook  Gen_trial 3.ipynb— it also requires the segmentation weights I trained.
+Please run the corresponding **notebook  Gen_trial 3.ipynb—** it also requires the segmentation weights I trained.
 Kindly use the same weights from the Drive link above.
 pdf is also found in **stable diffusion inpainting pdf** with **the generated images**
 ⚠️ Note: When performing inference with the second model in Colab, restart the session first, as RAM may run out.
