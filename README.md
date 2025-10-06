@@ -1,8 +1,10 @@
 Segmentation Task:
-I made two trials — the final and correct version is in the notebook loss_Functions_Introduced.ipynb.
+I made two trials —
+the **final and correct version** is in the **notebook loss_Functions_Introduced.ipynb.**
+first trial was to explore the dataset and do augmentation Notebook **Modanet_Trial1** **Not final sloution**
 Kindly run this notebook for training.
 
-I also added inference on real web images. Please download the trained weights from the following link to test on real images (not only the test set):
+I also **added inference on real web images**. Please download the trained weights from the following link to test on real images (not only the test set):
 https://drive.google.com/file/d/1jZ9qvr0Yn5ehvPpH-I4-6sfTG5mztxhZ/view?usp=sharing
 And **Run seg_Inference.ipynb with the web images**
 The **pdf is presented in segmentation task.pdf**
